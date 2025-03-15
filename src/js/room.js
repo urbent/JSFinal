@@ -1,6 +1,6 @@
 // Written by Tyler Urben 12/3/24 edited on 3/8/25
 
-class Room{
+class Room {
     constructor(roomID,roomDesc,leftRoomID,leftRoomName,rightRoomID,rightRoomName,roomDescAlt,roomSearched,hasKey,keyID) {
         this.roomID = roomID;
         this.roomDesc = roomDesc;

@@ -1,7 +1,7 @@
 {
-  "name": "bookmarker",
+  "name": "jsfinal",
   "version": "1.0.0",
-  "description": "",
+  "description": "Final project for CS233JS",
   "main": "index.html",
   "scripts": {
     "webpack": "webpack",
